@@ -1,0 +1,4 @@
+repository "EZ@tj_abrocadecarp@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
